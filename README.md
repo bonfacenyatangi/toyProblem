@@ -17,7 +17,7 @@
           The program takes in the basic salary and benefits of an employee, and calculates the Payee Tax, NHIF, NSSF Deductions and net salary.
 
 3. Project Setup. 
-      - The project has four files, one html file and 3 JS files for every challenge respectively
+      - The project has four files, one html file for rendering data on the browser and 3 JS files for every challenge respectively
 
-4. Author & License.
+4. Author
   - Bonface Mabeche Nyatangi
